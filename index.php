@@ -1,6 +1,7 @@
 <HTML>
 <HEAD><TITLE> My Homepage </TITLE></HEAD>
-<BODY BGCOLOR=#FFFFFF>
+<BODY BGCOLOR=#CCFFFF>
+
 <H1>
 <?php echo "รหัสนิสิต-62310096"; ?><br>
 <?php echo "ชื่อ-สกุล นาย สุทธิพงษ์  ปันดี."; ?><br>
