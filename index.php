@@ -8,5 +8,7 @@
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/pb7K6fy0rbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
+<?php echo "ส่วนนี่คือ วิดีโอ แนะนำมหาลัย (ในแบบของผม)"; ?><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/51Mou6ypX4U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </BODY>
 </HTML>
