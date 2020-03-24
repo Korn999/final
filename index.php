@@ -6,7 +6,7 @@
 <?php echo "รหัสนิสิต-62310096"; ?><br>
 <?php echo "ชื่อ-สกุล นาย สุทธิพงษ์  ปันดี."; ?><br>
 <?php echo "ชื่อเล่น กรณ์."; ?><br>
-<?php echo "      นี่คือวิดีโอแนะนำตัว     "; ?><br>
+<?php echo "--------นี่คือวิดีโอแนะนำตัว--------"; ?><br>
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/pb7K6fy0rbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe><br>
